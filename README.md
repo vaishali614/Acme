@@ -2,12 +2,12 @@
 A clean coded responsive mobile friendly HTML5 website for a fictional web design company
 
 HOME:
-![home 1](https://user-images.githubusercontent.com/32364768/45564692-ddafcf00-b86e-11e8-9c2a-a47c81e5ec7a.png)
-![home 2](https://user-images.githubusercontent.com/32364768/45564698-e6a0a080-b86e-11e8-8cbb-cf8544a4be83.png)
+![home 1](https://user-images.githubusercontent.com/32364768/45565076-1f8d4500-b870-11e8-9eeb-b414f39b887d.PNG)
+![home 2](https://user-images.githubusercontent.com/32364768/45565079-21ef9f00-b870-11e8-96d5-46d647c0812d.PNG)
 
 ABOUT:
-![about](https://user-images.githubusercontent.com/32364768/45564706-e99b9100-b86e-11e8-8441-c760d4614a8f.png)
+![about](https://user-images.githubusercontent.com/32364768/45565087-24ea8f80-b870-11e8-853b-3868ee1b7b62.PNG)
 
 SERVICES:
-![services 1](https://user-images.githubusercontent.com/32364768/45564708-edc7ae80-b86e-11e8-839c-21c84ed840be.png)
-![services 2](https://user-images.githubusercontent.com/32364768/45564709-f02a0880-b86e-11e8-9b7e-d8e57bd44118.png)
+![services 1](https://user-images.githubusercontent.com/32364768/45565091-274ce980-b870-11e8-9248-c8088b004362.PNG)
+![services 2](https://user-images.githubusercontent.com/32364768/45565094-2a47da00-b870-11e8-9e6a-7abd1f38c901.PNG)
